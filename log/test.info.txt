@@ -1,0 +1,29 @@
+2025-05-14 17:54:38 - lr: 0.001,
+2025-05-14 17:54:38 - betas: (0.9, 0.999),
+2025-05-14 17:54:38 - eps: 1e-08,
+2025-05-14 17:54:38 - weight_decay: 0.001,
+2025-05-14 17:54:38 - amsgrad: False,
+2025-05-14 17:54:38 - T_max: 50,
+2025-05-14 17:54:38 - eta_min: 1e-06,
+2025-05-14 17:54:38 - last_epoch: -1,
+2025-05-14 17:56:10 - idx 0 case case0008 mean_dice 0.672773 mean_hd95 14.289306
+2025-05-14 17:57:04 - idx 1 case case0022 mean_dice 0.910650 mean_hd95 2.148450
+2025-05-14 17:58:04 - idx 2 case case0038 mean_dice 0.778454 mean_hd95 9.433054
+2025-05-14 18:00:04 - idx 3 case case0036 mean_dice 0.872205 mean_hd95 5.009139
+2025-05-14 18:01:33 - idx 4 case case0032 mean_dice 0.904939 mean_hd95 7.673852
+2025-05-14 18:02:56 - idx 5 case case0002 mean_dice 0.878878 mean_hd95 5.194964
+2025-05-14 18:03:55 - idx 6 case case0029 mean_dice 0.821099 mean_hd95 6.192751
+2025-05-14 18:05:55 - idx 7 case case0003 mean_dice 0.793234 mean_hd95 76.071209
+2025-05-14 18:07:26 - idx 8 case case0001 mean_dice 0.789487 mean_hd95 13.539448
+2025-05-14 18:08:49 - idx 9 case case0004 mean_dice 0.818863 mean_hd95 14.489449
+2025-05-14 18:09:40 - idx 10 case case0025 mean_dice 0.853051 mean_hd95 22.425071
+2025-05-14 18:10:29 - idx 11 case case0035 mean_dice 0.898847 mean_hd95 2.563180
+2025-05-14 18:10:29 - Mean class 1 mean_dice 0.878541 mean_hd95 7.495651
+2025-05-14 18:10:29 - Mean class 2 mean_dice 0.733120 mean_hd95 27.284729
+2025-05-14 18:10:29 - Mean class 3 mean_dice 0.862797 mean_hd95 23.821420
+2025-05-14 18:10:29 - Mean class 4 mean_dice 0.841235 mean_hd95 13.524106
+2025-05-14 18:10:29 - Mean class 5 mean_dice 0.953397 mean_hd95 14.156765
+2025-05-14 18:10:29 - Mean class 6 mean_dice 0.657962 mean_hd95 10.103694
+2025-05-14 18:10:29 - Mean class 7 mean_dice 0.927820 mean_hd95 7.417661
+2025-05-14 18:10:29 - Mean class 8 mean_dice 0.806781 mean_hd95 15.549224
+2025-05-14 18:10:29 - test  mean_dice: 0.832706639180243, mean_hd95: 14.91915603442167, time(s): 948.97
